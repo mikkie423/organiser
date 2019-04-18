@@ -1,0 +1,22 @@
+// Colours
+$paper: #f8f6f1;
+$parchment: -webkit-radial-gradient(
+  center,
+  ellipse cover,
+  #f7f4df 0%,
+  #afa383 100%
+); /* Chrome10-25,Safari5.1-6 */
+$pinboard: #4371b6;
+
+//Note Sections Backgrounds
+$diary-bg: $paper;
+$bos-bg: white;
+$planner-bg: white;
+$jotpad-bg: white;
+$almanac-bg: white;
+$todo-bg: white;
+$notebook-bg: white;
+
+// Lengths
+$max-width: 360px;
+$max-height: 640px;
